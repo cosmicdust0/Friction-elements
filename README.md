@@ -1,6 +1,8 @@
 # Friction-elements
 Input
+
 https://github.com/user-attachments/assets/40f71e52-b28b-4cd8-916c-7d42bbf915a8
+
 output
 
 
