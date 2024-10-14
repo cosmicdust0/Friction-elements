@@ -3,6 +3,15 @@
 The research paper for the project is here 
 
 [Road friction elements.pdf](https://github.com/user-attachments/files/16680598/Road.friction.elements.pdf)
+# Road friction elements 
+![image_0](https://github.com/user-attachments/assets/16ff2aee-aca2-4556-a748-c743ee23bc69)
+
+
+
+
+# Pipe and filter Architecture 
+![image](https://github.com/user-attachments/assets/a7b54e5f-d26e-446f-9657-49278588c5af)
+
 
 ## Input
 
@@ -20,16 +29,9 @@ https://github.com/user-attachments/assets/7c8b682b-7a68-438f-8eb1-2a03ec4776ac
 ![image_0](https://github.com/user-attachments/assets/16ff2aee-aca2-4556-a748-c743ee23bc69)
 
 
-## Input 
-![Screenshot 2023-12-15 151717](https://github.com/user-attachments/assets/b208d47c-cad7-4eb5-a7b8-990b843d3d47)
-
-
-## Segmentation
-![Screenshot 2023-12-15 151722](https://github.com/user-attachments/assets/dfdbb6ab-7b43-44fe-890e-d66860882c57)
-## Bounding box detection 
-![Screenshot 2023-12-15 151729](https://github.com/user-attachments/assets/71480d8b-ad94-4754-b16b-a3372c9f9196)
-## Road segmentation
-![Screenshot 2023-12-15 151740](https://github.com/user-attachments/assets/e007fce5-6244-4c40-8ee8-d621d067af2f)
+## Preprocessing for Training Models 
+![image](https://github.com/user-attachments/assets/3c13c147-6b3a-44df-87b4-bc9acb9b32e3)
+ 
 ## Metric calculations - Overlap and area 
 
 ![Screenshot 2023-12-15 151819](https://github.com/user-attachments/assets/c0445e5e-332e-4dcd-bcc1-923acf61e57c)
